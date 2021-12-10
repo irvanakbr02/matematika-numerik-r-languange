@@ -1,0 +1,16 @@
+2+4*2
+(2+4)*2
+#Addition
+5+3
+#Substraction
+5-3
+#multiplication
+5*3
+#Division
+5/3
+#Eskponentiation
+5^3
+#modulus
+10%%3
+#integer
+5%/%3
